@@ -4,10 +4,35 @@ h2{
 p{
     color: brown;
     text-align: center;
+    font-size: 25px;
 }
 .par{
     color : chartreuse;
 }
 #ak{
     color: yellow;
+}
+div{
+    width: 200px;
+    height: 200px;
+    color: coral;
+    background-color: cadetblue;
+    text-align: center;
+    align-content: center;
+    /* padding: 20px; */
+    margin: 100px;
+    border: 1px solid red;
+}
+.akj{
+    width: 1200px;
+    height:150px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 100px;
+    
+}
+
+#aj{
+    font-size: 20px;
+    text-align: left;
 }
