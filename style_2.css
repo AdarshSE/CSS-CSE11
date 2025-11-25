@@ -12,7 +12,7 @@
     margin: 10px;
     margin-top: 25px;
     text-align: center;
-
+    /* align-content: center;-------vertical center */
 }
 .box1{
     background-color: rgb(156, 156, 10);
@@ -26,5 +26,5 @@
 }
 #text{
     font-size: 35px;
-    margin-left: 5px;
+    margin-left:5px;
 }
